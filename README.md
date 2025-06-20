@@ -1,5 +1,5 @@
 # Amplify AI Samples
-
+shiraki
 ## Getting Started
 
 All of these samples use the Amplify AI. To run these samples you will need an AWS account with AWS Amplify set up and access to Bedrock models in the region you want to deploy in.
